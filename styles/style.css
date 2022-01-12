@@ -72,7 +72,7 @@
 }
 .header__link{
   color: #2f80ed;
-  text-decoration: none
+  text-decoration: none;
 }
 
 .description{
@@ -218,7 +218,7 @@ align-items: flex-start;
   top:50%;
   right: 48px;
   color: #2f80ed;
-  text-decoration: none
+  text-decoration: none;
 }
 
 .kaufman{

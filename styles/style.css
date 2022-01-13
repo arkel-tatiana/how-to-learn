@@ -72,6 +72,7 @@
   color: #2f80ed;
   text-decoration: none;
 }
+.header__link:hover {color: red}
 
 .description{
   margin-top: 100px;
@@ -88,7 +89,7 @@
   display: flex;
   margin: 0px;
   justify-content: space-between;
-  lign-items: flex-start;
+  align-items: flex-start;
 }
 .two-columns__brief{
   margin: 0;
@@ -220,6 +221,7 @@
   color: #2f80ed;
   text-decoration: none;
 }
+.feynman_link:hover {color: red}
 
 .kaufman{
   margin: 0;
@@ -332,4 +334,4 @@
   margin-right: 10px;
   margin-left: 0px;
 }
-
+.footer__column-link:hover {color: red}

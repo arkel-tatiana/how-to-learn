@@ -13,4 +13,4 @@
 *  анимация нескольких блоков на странице.
 *  
 ### Ссылка на проект
-*  [ссылка на проект](https://arkel-tatiana.github.io/russian-travel/)
+*  [ссылка на проект](https://github.com/arkel-tatiana/how-to-learn.git)
